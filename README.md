@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huzizhan
-- 👀 I’m interested in numerical modeling in Atmopsheric science, espcially large eddy simulation model and stable water isotopes models
-- 🌱 I’m currently learning cython and Fortran.
+- 👀 I’m interested in numerical modeling in Atmopsheric Science, espcially Large Eddy Simulation model and stable water isotopes models
+- 🌱 I’m currently learning cython, C and Fortran.
 - 📫 How to reach me: my email is hzz18@mails.tsinghua.edu.cn
 
 <!---
